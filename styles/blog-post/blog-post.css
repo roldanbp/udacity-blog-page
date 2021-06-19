@@ -1,0 +1,5 @@
+@import url(./layout.css);
+@import url(../commons/commons.css);
+@import url(../commons/header.css);
+@import url(../commons/footer.css);
+@import url(../blog-post/layout-areas/content.css);
