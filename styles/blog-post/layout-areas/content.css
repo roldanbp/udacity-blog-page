@@ -73,8 +73,11 @@
 .content__post-title-form {
     color: #469a65;
     font-weight: 800;
+    margin-top: 20px;
+}
+
+.content__post-title-form > .stand-out {
     font-size: 22px;
-    margin-top: 10px;
 }
 
 .content__post-subtitle-form {

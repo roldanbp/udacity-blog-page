@@ -94,7 +94,7 @@
         margin-right: 20px;
     }
 
-    .content > .content__container > .content__post > .content__post-img  {
+    .content > .content__container > .content__post > .content__post-figure > .content__post-img  {
         min-height: 340px;
     }
 
